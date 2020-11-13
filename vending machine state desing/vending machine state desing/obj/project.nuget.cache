@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tjKt2h+/BHDzHnzGgr9cWEVf7TkgAf061CiDtZZnbqa3gq8IzU5zGVNUxhiBUO4sQyy+PG10Tvf8ub9xGBjVGA==",
+  "dgSpecHash": "CE3D2R3WnFYpNLGkTMBVekU1tPKUYF+YPP0cK3RwraSk2vAVWaHvvMIWZRIjvmpRphQHgyYbqAUw+jtdGtDOUA==",
   "success": true,
-  "projectFilePath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
+  "projectFilePath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\VendingMAchine State\\Vendig_Machine_State\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

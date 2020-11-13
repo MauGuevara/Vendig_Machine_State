@@ -24,8 +24,9 @@ namespace vending_machine_state_desing
             }
         }
 
-        public void Sell()
+        public void Sell(int money)
         {
+            Console.WriteLine("Inserted: {0}",money);
             Console.WriteLine("Sell item process begins...");
             v_machine_state = new SelectItemState();
             v_machine_state.HandleOperation(this);

@@ -7,7 +7,7 @@ namespace vending_machine_state_desing
         static void Main(string[] args)
         {
             VendingMachine vending_machine = new VendingMachine();
-            vending_machine.Sell();
+            vending_machine.Sell(20);
         }
     }
 }

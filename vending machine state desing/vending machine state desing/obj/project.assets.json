@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
+      "projectUniqueName": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\VendingMAchine State\\Vendig_Machine_State\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
       "projectName": "vending machine state desing",
-      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
+      "projectPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\VendingMAchine State\\Vendig_Machine_State\\vending machine state desing\\vending machine state desing\\vending machine state desing.csproj",
       "packagesPath": "C:\\Users\\Mau\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\vending machine state desing\\vending machine state desing\\obj\\",
+      "outputPath": "D:\\UNIVERSIDAD\\ARQUITECTURA DE SOFTWARE\\Patrones de diseño\\VendingMAchine State\\Vendig_Machine_State\\vending machine state desing\\vending machine state desing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mau\\AppData\\Roaming\\NuGet\\NuGet.Config",
